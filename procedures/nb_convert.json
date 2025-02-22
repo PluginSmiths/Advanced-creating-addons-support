@@ -1,0 +1,31 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "number",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "negative",
+      "check": "Boolean"
+    }
+  ],
+  "inputsInline": true,
+  "output": "Boolean",
+  "colour": "#607c99",
+  "mcreator": {
+    "toolbox_id": "advanced_supports",
+    "toolbox_init": [
+      "<value name=\"number\"><block type=\"math_number\"><field name=\"NUM\">0</field></block></value>",
+      "<value name=\"negative\"><block type=\"logic_boolean\"><field name=\"BOOL\">FALSE</field></block></value>"
+    ],
+    "inputs": [
+      "number",
+      "negative"
+    ],
+    "required_apis": [
+      "numeric_boolean"
+    ]
+  }
+}
