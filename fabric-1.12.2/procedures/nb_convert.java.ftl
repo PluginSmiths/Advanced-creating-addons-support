@@ -1,0 +1,1 @@
+NumericBoolean.ConvertToBoolean(${input$number}, ${input$negative})
