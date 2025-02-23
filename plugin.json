@@ -16,6 +16,10 @@
   "info": {
     "name": "Advanced creating addons support",
     "description": "Advanced CAS plugin that adds Mod supports which don't require mod to download and usually support all versions.",
-    "author": "OVONSAME"
+    "author": "OVONSAME",
+    "pluginPageID": 105284,
+    "dependencies":  [
+      "cas",
+    ]
   }
 }
