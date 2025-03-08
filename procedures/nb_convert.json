@@ -15,7 +15,7 @@
   "output": "Boolean",
   "colour": "#607c99",
   "mcreator": {
-    "toolbox_id": "advanced_supports",
+    "toolbox_id": "numeric_boolean_support",
     "toolbox_init": [
       "<value name=\"number\"><block type=\"math_number\"><field name=\"NUM\">0</field></block></value>",
       "<value name=\"negative\"><block type=\"logic_boolean\"><field name=\"BOOL\">FALSE</field></block></value>"
