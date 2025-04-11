@@ -5,7 +5,7 @@ fabric-1.21.4:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 fabric-1.21.1:
   gradle: |
@@ -13,7 +13,7 @@ fabric-1.21.1:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 fabric-1.20.6:
   gradle: |
@@ -21,7 +21,7 @@ fabric-1.20.6:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 fabric-1.20.4:
   gradle: |
@@ -29,7 +29,7 @@ fabric-1.20.4:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 fabric-1.20.1:
   gradle: |
@@ -37,7 +37,7 @@ fabric-1.20.1:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 fabric-1.19.4:
   gradle: |
@@ -45,7 +45,7 @@ fabric-1.19.4:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 fabric-1.19.2:
   gradle: |
@@ -53,7 +53,7 @@ fabric-1.19.2:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 fabric-1.19:
   gradle: |
@@ -61,7 +61,7 @@ fabric-1.19:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 fabric-1.18.2:
   gradle: |
@@ -69,7 +69,7 @@ fabric-1.18.2:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 fabric-1.17.1:
   gradle: |
@@ -77,7 +77,7 @@ fabric-1.17.1:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 fabric-1.16.5:
   gradle: |
@@ -85,7 +85,7 @@ fabric-1.16.5:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 fabric-1.15.2:
   gradle: |
@@ -93,7 +93,7 @@ fabric-1.15.2:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 fabric-1.14.4:
   gradle: |
@@ -101,7 +101,7 @@ fabric-1.14.4:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 fabric-1.14.2:
   gradle: |
@@ -109,7 +109,7 @@ fabric-1.14.2:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 fabric-1.13.2:
   gradle: |
@@ -117,7 +117,7 @@ fabric-1.13.2:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 fabric-1.12.2:
   gradle: |
@@ -125,7 +125,7 @@ fabric-1.12.2:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 forge-1.21.4:
   gradle: |
@@ -133,7 +133,7 @@ forge-1.21.4:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 forge-1.21.1:
   gradle: |
@@ -141,7 +141,7 @@ forge-1.21.1:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 forge-1.20.6:
   gradle: |
@@ -149,7 +149,7 @@ forge-1.20.6:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 forge-1.20.4:
   gradle: |
@@ -157,7 +157,7 @@ forge-1.20.4:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 forge-1.20.1:
   gradle: |
@@ -165,7 +165,7 @@ forge-1.20.1:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 forge-1.19.4:
   gradle: |
@@ -173,7 +173,7 @@ forge-1.19.4:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 forge-1.19.2:
   gradle: |
@@ -181,7 +181,7 @@ forge-1.19.2:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 forge-1.19:
   gradle: |
@@ -189,7 +189,7 @@ forge-1.19:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 forge-1.18.2:
   gradle: |
@@ -197,7 +197,7 @@ forge-1.18.2:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 forge-1.17.1:
   gradle: |
@@ -205,7 +205,7 @@ forge-1.17.1:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 forge-1.16.5:
   gradle: |
@@ -213,7 +213,7 @@ forge-1.16.5:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 forge-1.15.2:
   gradle: |
@@ -221,7 +221,7 @@ forge-1.15.2:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 forge-1.14.4:
   gradle: |
@@ -229,7 +229,7 @@ forge-1.14.4:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 forge-1.14.2:
   gradle: |
@@ -237,7 +237,7 @@ forge-1.14.2:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 forge-1.13.2:
   gradle: |
@@ -245,7 +245,7 @@ forge-1.13.2:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 forge-1.12.2:
   gradle: |
@@ -253,7 +253,7 @@ forge-1.12.2:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 neoforge-1.21.4:
   gradle: |
@@ -261,7 +261,7 @@ neoforge-1.21.4:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 neoforge-1.21.1:
   gradle: |
@@ -269,7 +269,7 @@ neoforge-1.21.1:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 neoforge-1.20.6:
   gradle: |
@@ -277,7 +277,7 @@ neoforge-1.20.6:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 neoforge-1.20.4:
   gradle: |
@@ -285,7 +285,7 @@ neoforge-1.20.4:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 neoforge-1.20.1:
   gradle: |
@@ -293,7 +293,7 @@ neoforge-1.20.1:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 neoforge-1.19.4:
   gradle: |
@@ -301,7 +301,7 @@ neoforge-1.19.4:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 neoforge-1.19.2:
   gradle: |
@@ -309,7 +309,7 @@ neoforge-1.19.2:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 neoforge-1.19:
   gradle: |
@@ -317,7 +317,7 @@ neoforge-1.19:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 neoforge-1.18.2:
   gradle: |
@@ -325,7 +325,7 @@ neoforge-1.18.2:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 neoforge-1.17.1:
   gradle: |
@@ -333,7 +333,7 @@ neoforge-1.17.1:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 neoforge-1.16.5:
   gradle: |
@@ -341,7 +341,7 @@ neoforge-1.16.5:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 neoforge-1.15.2:
   gradle: |
@@ -349,7 +349,7 @@ neoforge-1.15.2:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 neoforge-1.14.4:
   gradle: |
@@ -357,7 +357,7 @@ neoforge-1.14.4:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 neoforge-1.14.2:
   gradle: |
@@ -365,7 +365,7 @@ neoforge-1.14.2:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 neoforge-1.13.2:
   gradle: |
@@ -373,7 +373,7 @@ neoforge-1.13.2:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 neoforge-1.12.2:
   gradle: |
@@ -381,6 +381,6 @@ neoforge-1.12.2:
         maven { url "https://jitpack.io" }
     }
     dependencies {
-        implementation "com.github.OVNSAME:NumericBoolean:main"
+        implementation("com.github.OVNSAME:NumericBoolean:main")
     }
 name: "Numeric Boolean"
